@@ -5,6 +5,7 @@ Content-
 - MNIST_Classification.ipynb - The main jupyter notebook
 - Binary_Classification.ipynb - Binary classification of only 0 and 1 images (without the previously written Neural Net class) that I wrote just as an exercise.
 - mnist_model.dat - Binary file containing the trained model (see the end of MNIST_Classification.ipynb for detail)
+- NN_framework.py - The neural net python file that I wrote in this project - https://github.com/shashwatgupta42/neural_net
 
 
 
